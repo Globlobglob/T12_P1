@@ -1,0 +1,7 @@
+C:\Users\MosquitoParisi\Desktop\КПК\T12_P11\bin\Debug\T12_P11.exe.config
+C:\Users\MosquitoParisi\Desktop\КПК\T12_P11\bin\Debug\T12_P11.exe
+C:\Users\MosquitoParisi\Desktop\КПК\T12_P11\bin\Debug\T12_P11.pdb
+C:\Users\MosquitoParisi\Desktop\КПК\T12_P11\obj\Debug\T12_P11.csproj.AssemblyReference.cache
+C:\Users\MosquitoParisi\Desktop\КПК\T12_P11\obj\Debug\T12_P11.csproj.CoreCompileInputs.cache
+C:\Users\MosquitoParisi\Desktop\КПК\T12_P11\obj\Debug\T12_P11.exe
+C:\Users\MosquitoParisi\Desktop\КПК\T12_P11\obj\Debug\T12_P11.pdb
